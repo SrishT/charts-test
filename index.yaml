@@ -1,0 +1,147 @@
+apiVersion: v1
+entries:
+  pravega:
+  - apiVersion: v2
+    appVersion: 0.6.0
+    created: "2020-06-24T08:22:58.931008316+05:30"
+    description: Pravega Helm chart for Kubernetes
+    digest: a5710612c5f14bd1f3776cdcb7b622de0406d5612d57d7b80711a06598c37473
+    home: https://github.com/pravega/pravega
+    icon: https://avatars3.githubusercontent.com/u/25698199
+    keywords:
+    - pravega
+    - storage
+    name: pravega
+    urls:
+    - charts/pravega-bk-0.6.0.tgz
+    version: 0.6.0
+  - apiVersion: v1
+    appVersion: 0.5.0
+    created: "2020-06-24T08:22:58.923127213+05:30"
+    description: pravega Helm chart for Kubernetes
+    digest: 7c396d25562e7cc5d3ecdf717c156f751a24c1e05ead7c796e6320c37b35d9f0
+    home: https://github.com/pravega/pravega
+    icon: https://avatars3.githubusercontent.com/u/25698199
+    keywords:
+    - pravega
+    - storage
+    name: pravega
+    sources:
+    - https://github.com/pravega/pravega
+    urls:
+    - pravega-0.5.0.tgz
+    version: 0.5.0
+  - apiVersion: v2
+    created: "2020-06-24T08:22:58.929886726+05:30"
+    description: Pravega Helm chart for Kubernetes
+    digest: 865a57db24a60b49199edcc0474ec7a619d87c732ef782c2c237465b56ef98c1
+    home: https://github.com/pravega/pravega
+    icon: https://avatars3.githubusercontent.com/u/25698199
+    keywords:
+    - pravega
+    - storage
+    name: pravega
+    urls:
+    - charts/pravega-0.1.0.tgz
+    version: 0.1.0
+  pravega-operator:
+  - apiVersion: v2
+    appVersion: 0.5.0
+    created: "2020-06-24T08:22:58.935577588+05:30"
+    description: Pravega Operator Helm chart for Kubernetes
+    digest: a079b0ae16a35c4e4b5d91d3e0e153e38ce81576417d553c24dc4ea178d6f1de
+    home: https://github.com/pravega/pravega-operator
+    icon: https://avatars3.githubusercontent.com/u/25698199
+    keywords:
+    - pravega
+    - storage
+    name: pravega-operator
+    urls:
+    - charts/pravega-operator-0.5.1.tgz
+    version: 0.5.1
+  - apiVersion: v2
+    appVersion: 0.5.0
+    created: "2020-06-24T08:22:58.92579013+05:30"
+    description: Pravega Operator Helm chart for Kubernetes
+    digest: ebc20c6a43530df7f9c4a017662f88309fbc78a096ccc6c2b0f7e1d9b0a12398
+    home: https://github.com/pravega/pravega-operator
+    icon: https://avatars3.githubusercontent.com/u/25698199
+    keywords:
+    - pravega
+    - storage
+    name: pravega-operator
+    urls:
+    - pravega-operator-0.5.0.tgz
+    version: 0.5.0
+  - apiVersion: v2
+    appVersion: 0.5.0
+    created: "2020-06-24T08:22:58.934584795+05:30"
+    description: Pravega Operator Helm chart for Kubernetes
+    digest: 0b7f5edf1286b086ea21efa6e92368ecae9f9c9c0e1fefa9a17617c906b0f416
+    home: https://github.com/pravega/pravega-operator
+    icon: https://avatars3.githubusercontent.com/u/25698199
+    keywords:
+    - pravega
+    - storage
+    name: pravega-operator
+    urls:
+    - charts/pravega-operator-0.5.0.tgz
+    version: 0.5.0
+  - apiVersion: v2
+    appVersion: 0.4.5
+    created: "2020-06-24T08:22:58.933026861+05:30"
+    description: Pravega Operator Helm chart for Kubernetes
+    digest: 71d357e7ca2a3591fbe3e4dd064ae973d345b12451285aa733c4a62cf5732e29
+    home: https://github.com/pravega/pravega-operator
+    icon: https://avatars3.githubusercontent.com/u/25698199
+    keywords:
+    - pravega
+    - storage
+    name: pravega-operator
+    urls:
+    - charts/pravega-operator-0.4.5.tgz
+    version: 0.4.5
+  - apiVersion: v1
+    appVersion: 0.4.4
+    created: "2020-06-24T08:22:58.924131754+05:30"
+    description: pravega operator Helm chart for Kubernetes
+    digest: e39d493a6fe8e9b537c5a267e3ce9cae4f01104619af67378d3015b375539f16
+    home: https://github.com/pravega/pravega-operator/blob/master/charts/pravega-operator
+    icon: https://avatars3.githubusercontent.com/u/25698199
+    keywords:
+    - pravega
+    - storage
+    name: pravega-operator
+    sources:
+    - https://github.com/pravega/charts/blob/master/pravega-operator
+    urls:
+    - pravega-operator-0.4.4.tgz
+    version: 0.4.4
+  - apiVersion: v2
+    created: "2020-06-24T08:22:58.932266263+05:30"
+    description: Pravega Operator Helm chart for Kubernetes
+    digest: 4681325555a27c21b6052765a0ae4f85c75a2d35fcc8a3ccfda1049dedce87e7
+    home: https://github.com/pravega/pravega-operator
+    icon: https://avatars3.githubusercontent.com/u/25698199
+    keywords:
+    - pravega
+    - storage
+    name: pravega-operator
+    urls:
+    - charts/pravega-operator-0.1.0.tgz
+    version: 0.1.0
+  zookeeper:
+  - apiVersion: v2
+    created: "2020-06-24T08:22:58.93631253+05:30"
+    description: Zookeeper Helm chart for Kubernetes
+    digest: 51705424ae0e5f36b6f14c90978fca169e93691ccbe5e749b3f979c2291765fb
+    home: https://github.com/apache/zookeeper
+    icon: https://zookeeper.apache.org/images/zookeeper_small.gif
+    keywords:
+    - zookeeper
+    - storage
+    name: zookeeper
+    urls:
+    - charts/zookeeper-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-06-24T08:22:58.920601366+05:30"

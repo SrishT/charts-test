@@ -1,0 +1,18 @@
+apiVersion: v1
+entries:
+  pravega:
+  - apiVersion: v2
+    appVersion: 0.8.0
+    created: "2020-11-26T12:20:19.749532386+05:30"
+    description: Pravega Helm chart for Kubernetes
+    digest: ba31b36e6d9b678d65773e04b2106352d6fe68a7357f4970743407b5b724f060
+    home: https://github.com/pravega/pravega
+    icon: https://avatars3.githubusercontent.com/u/25698199
+    keywords:
+    - pravega
+    - storage
+    name: pravega
+    urls:
+    - pravega-0.8.0.tgz
+    version: 0.8.0
+generated: "2020-11-26T12:20:19.748445908+05:30"
